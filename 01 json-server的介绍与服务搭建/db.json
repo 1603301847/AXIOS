@@ -3,6 +3,10 @@
         "id": 1,
         "title": "json-server",
         "author": "typicode"
+    },{
+        "id": 2,
+        "title": "你好json-server",
+        "author": "小编typicode"
     }],
     "comments": [{
         "id": 1,
